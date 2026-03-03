@@ -18,8 +18,11 @@ Dein erster Auftrag: Rekonstruiere die Verzeichnisstruktur, in der der "Angreife
 Der Angreifer hat versucht, seine Spuren zu verwischen, indem er Dateistempel geändert hat. Wir müssen das für unsere Analyse simulieren.
 
 1. Versetze die Dateien `test`, `test.log` und das Verzeichnis `blau` künstlich in die Vergangenheit: Setze das Datum auf den 14. April 2024.
+<details>
+<summary>Hilfe?</summary>
+Touch kann viel mehr als du denkst...
+</details>
 
-2. **Recherche-Check:** Welcher Flag bei touch erlaubt das Setzen eines exakten Zeitstempels? (Format: YYYYMMDDhhmm)
 
 ## 🔍 Teil 3: Die Nadel im Heuhaufen
 

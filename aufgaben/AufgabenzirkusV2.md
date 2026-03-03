@@ -46,15 +46,3 @@ Macht am besten eine Datei daraus, dann kann man einfach den Laptop austauschen.
 **Lösungsweg:**
 [Schritt-für-Schritt Erklärung]
 ```
-
----
-
-## 🎓 Bewertungskriterien
-Ihr stimmt am Ende für die beste Aufgabe ab und die Gewinner bekommen 5 Minuten mehr Pause :).
-
-- **Kreativität** der Aufgabenstellung
-- **Klarheit** der Formulierung  
-- **Angemessener Schwierigkeitsgrad**
-- **Vielseitigkeit** der verwendeten Commands
-- **Qualität** der Präsentation
-

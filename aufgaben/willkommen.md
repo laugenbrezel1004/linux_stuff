@@ -16,6 +16,6 @@ Das System läuft bereits seit: [Laufzeit]
 
 <details>
 <summary>💡 Hilfe benötigt?</summary>
-In deinem Home-Verzeichnis  gibt es versteckte Konfigurationsdateien, welche den Namen deiner Shell trägt und auf "rc" endet, vielleicht 
+In deinem Home-Verzeichnis gibt es versteckte Konfigurationsdateien, welche den Namen deiner Shell trägt und auf "rc" endet, vielleicht 
 kannst du damit etwas anfangen...
 </details>
