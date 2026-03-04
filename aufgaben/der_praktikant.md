@@ -1,4 +1,4 @@
-# 👨‍🍳 Mission: Der digitale Küchen-Praktikant (Daemon-Edition)
+# 👨‍🍳 Mission: Der digitale Küchen-Praktikant 
 
 ### Die Geschichte
 Der Chefkoch ist es leid: Ständig fehlen Zutaten, weil niemand rechtzeitig Bescheid gibt. Er hat dich, den neuen **IT-Küchen-Praktikanten**, beauftragt, die Vorratskammer permanent zu überwachen.

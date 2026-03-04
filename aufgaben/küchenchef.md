@@ -11,7 +11,6 @@ Erstelle ein Bash-Skript, das folgende Funktionen erfüllt:
 
 ### 1. Alle meine Köche anzeigen
 * Zeige nur Prozesse des **aktuellen Benutzers** an.
-* Sortiere sie nach **Speicherverbrauch (RAM)** – die größten zuerst.
 * Nutze eine schöne, lesbare Tabelle (Spalten: `PID`, `COMMAND`, `%MEM`, `%CPU`).
 
 ### 2. Einen Koch per PID rauswerfen
@@ -34,7 +33,7 @@ Erstelle ein Bash-Skript, das folgende Funktionen erfüllt:
 $ ./küchen-manager.sh
 
 === 🧑‍🍳 KÜCHEN-MANAGER v1.0 ===
-1) Alle meine Köche anzeigen (sortiert nach RAM)
+1) Alle meine Köche anzeigen 
 2) Einen Koch per PID rauswerfen
 3) Alle Köche eines Namens rauswerfen
 4) Programm beenden
